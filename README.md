@@ -96,7 +96,8 @@ python example.py
 exit
 ```
 
-📩 Contacto
+## 📩 **  Contacto
+
 Si tienes dudas o sugerencias, no dudes en contribuir al proyecto o contactarnos.
 
 📌 Jose Israel Perez 📌 Diego Juvinao 📌 Leidy Correa

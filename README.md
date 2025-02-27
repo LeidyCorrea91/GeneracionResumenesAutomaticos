@@ -67,7 +67,7 @@ El proyecto sigue un diseño modular basado en **cohesión y bajo acoplamiento**
 Antes de ejecutar el proyecto, construye la imagen con:
 
 ```bash
-docker build -t auto_summarizer .
+docker build --no-cache -t auto_summarizer .
 
 ```
 ### 2️⃣ **Ejecutar en modo interactivo**

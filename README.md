@@ -102,5 +102,5 @@ Si tienes dudas o sugerencias, no dudes en contribuir al proyecto o contactarnos
 
 📌 Jose Israel Perez 📌 Diego Juvinao 📌 Leidy Correa
 
-🚀 ¡Espero que este proyecto sea útil para ti! 🚀
+🚀 **¡Espero que este proyecto sea útil para ti!** 🚀
 
